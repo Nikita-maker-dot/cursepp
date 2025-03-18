@@ -3,4 +3,4 @@ const screensValue = "Шаблонные, с уникальным дизайно
 const screenPrice = "Цена реализации одного экрана";
 const percentage = 10;
 const fullPrice = 1500;
-const responsive = 22;
+const responsive = true;
